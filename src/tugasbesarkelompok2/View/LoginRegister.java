@@ -528,23 +528,23 @@ public class LoginRegister extends javax.swing.JFrame {
 
         jLabel16.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jLabel16.setForeground(new java.awt.Color(204, 204, 204));
-        jLabel16.setText("WELCOME TO THE APP");
+        jLabel16.setText("WELCOME");
 
         javax.swing.GroupLayout panelWelcomeLayout = new javax.swing.GroupLayout(panelWelcome);
         panelWelcome.setLayout(panelWelcomeLayout);
         panelWelcomeLayout.setHorizontalGroup(
             panelWelcomeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelWelcomeLayout.createSequentialGroup()
-                .addGap(187, 187, 187)
+                .addGap(222, 222, 222)
                 .addComponent(jLabel16)
-                .addContainerGap(185, Short.MAX_VALUE))
+                .addContainerGap(288, Short.MAX_VALUE))
         );
         panelWelcomeLayout.setVerticalGroup(
             panelWelcomeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelWelcomeLayout.createSequentialGroup()
-                .addGap(54, 54, 54)
+                .addGap(57, 57, 57)
                 .addComponent(jLabel16)
-                .addContainerGap(467, Short.MAX_VALUE))
+                .addContainerGap(464, Short.MAX_VALUE))
         );
 
         Menu.add(panelWelcome, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 0, 620, 550));

@@ -1621,6 +1621,8 @@ Showhistori();        // TODO add your handling code here:
     private void jPanel9MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel9MouseClicked
         controller.resetBarang(this);
         kodeotomatis();
+        
+        //
     }//GEN-LAST:event_jPanel9MouseClicked
 
     private void jPanel2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel2MouseClicked
